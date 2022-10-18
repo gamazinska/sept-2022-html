@@ -1,0 +1,38 @@
+h1 , h2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+}
+.text {
+    color: blue;
+    font-family: Calibri;
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    color: maroon;
+}
+h2 {
+    color: darkslategrey;
+}
+body {
+    background-color: aquamarine;
+    font-size: 25px;
+}
+
+img {
+    align-self: center;
+}
+.tex {
+    color: darkblue;
+    font-family: Calibri;
+
+}
+br {
+    border-bottom-color: darkblue;
+    color: darkblue;
+}
