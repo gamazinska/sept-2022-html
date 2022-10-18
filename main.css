@@ -4,7 +4,7 @@ h1 , h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
 }
-}
+
 .text {
     color: blue;
     font-family: Calibri;
@@ -30,9 +30,4 @@ img {
 .tex {
     color: darkblue;
     font-family: Calibri;
-
-}
-br {
-    border-bottom-color: darkblue;
-    color: darkblue;
 }
